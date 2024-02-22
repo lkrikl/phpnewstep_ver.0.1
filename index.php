@@ -22,7 +22,5 @@ if(isset($_POST["age"])){
 }
 echo "Имя: $name <br> Возраст: $age";
 ?>
-		
-		
     </body>
 </html>
