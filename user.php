@@ -19,8 +19,7 @@
 			}
 		echo "Имя: $name <br> Фамилия: $lastname <br> Возраст: $age";
 		?>
-		<hr>
-		<a href="/phpnewstep">Вернуться к вводу данных</a>
+	<hr><a href="/phpnewstep">Вернуться к вводу данных</a>
     </body>
 </html>
 
